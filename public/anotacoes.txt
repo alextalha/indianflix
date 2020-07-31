@@ -5,3 +5,16 @@ npm i styled-components
 
 
 npm install react-router-dom
+
+
+
+usando o eslint 
+
+npx eslint --init 
+
+
+reload window => recarregar o vscode 
+
+enable eslint para habilitar na workspace 
+
+
