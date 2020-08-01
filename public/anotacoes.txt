@@ -12,7 +12,8 @@ usando o eslint
 
 npx eslint --init 
 
-
+ npm install eslint-plugin-react@latest --save-dev
+ 
 reload window => recarregar o vscode 
 
 enable eslint para habilitar na workspace 
