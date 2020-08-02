@@ -19,3 +19,6 @@ reload window => recarregar o vscode
 enable eslint para habilitar na workspace 
 
 
+
+vamos ver designer patterns
+
